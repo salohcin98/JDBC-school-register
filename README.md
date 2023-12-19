@@ -9,11 +9,10 @@ This project demonstrates using JDBC with Oracle SQL on the USC Upstate servers.
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-This project aims to allow users to create, modify, and delete students information, create and delete courses, and add grades for a school registrar system.
+This project aims to allow users to create, modify, and delete students' information, create and delete courses, and add grades for a school registrar system.
 
 ## Features
 
