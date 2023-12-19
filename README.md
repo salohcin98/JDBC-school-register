@@ -7,8 +7,7 @@ This project demonstrates using JDBC with Oracle SQL on the USC Upstate servers.
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Introduction
 
